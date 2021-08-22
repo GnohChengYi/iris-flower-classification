@@ -1,0 +1,6 @@
+run xlaunch.exe
+select multiple windows
+next, next, next, ok
+
+reopen WSL if necessary
+run as normal
