@@ -1,6 +1,6 @@
 # iris-flower-classification
 
-A Hello World machine learning project
+A machine learning project for flower classification
 
 
 ## Technologies
